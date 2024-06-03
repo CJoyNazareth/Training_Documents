@@ -696,8 +696,12 @@ Next ::
 		git ignore :
 		
 		What is the purpose of Local Repository ?
+                        the purpose of local repo is to store and manage project files on the local machine. it allows developers to track changes, revert to previous versions and 
+                collaborate with team members without a need of internet connection
 		
 		What is the purpose of Remote Repository ?
+                        The purpose of remote repo is provide a centralized location to store and manage project files and code so that it can be accessed and shared by multiple 
+                developers.
 		
 		Java_Web_Application Project Directory:
 		
